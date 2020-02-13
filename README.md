@@ -41,6 +41,10 @@ For Ubuntu:
 
 ```sudo python3 -m pip install pip-review```
 
+- Install h5py lib in order to save tensorflow models:
+
+```sudo python3 -m pip install h5py```
+
 - Upgrade libs to latest stable versions:
 
 ```sudo pip-review --local --interactive```
